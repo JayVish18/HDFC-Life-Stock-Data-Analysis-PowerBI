@@ -1,4 +1,3 @@
-# HDFC-Life-Stock-Data-Analysis-PowerBI
 # HDFC Life Stock Data Analysis Dashboard (Power BI)
 
 ## 📌 Project Overview
